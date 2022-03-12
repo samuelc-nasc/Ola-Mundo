@@ -6,4 +6,4 @@
 
 Essa linha eu adicionei diretamente no site! QUE IMPRESSIONATE!
 ------------------------------------------------------------------
-Testando letras em **negrito** e em *itálico*
+Testando letras em **NEGRITO** e em *ITÁLICO*
